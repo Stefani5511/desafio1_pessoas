@@ -42,14 +42,6 @@ Aplicativo Flutter desenvolvido para o Desafio 01.
 
 ![Print 3](assets/print3.png)
 
-## API utilizada
-
-ViaCEP:
-
-[https://viacep.com.br/ws/{CEP}/json/](https://viacep.com.br/ws/{CEP}/json/)
-
-A consulta é realizada quando o CEP informado possui 8 dígitos.
-
 ## Como executar
 
 Dentro da pasta do projeto:
