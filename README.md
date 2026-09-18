@@ -42,16 +42,6 @@ Aplicativo Flutter desenvolvido para o Desafio 01.
 
 ![Print 3](assets/print3.png)
 
-## Como executar
-
-Dentro da pasta do projeto:
-
-```bash
-flutter pub get
-flutter run
-```
-
 ## APK
 
 [Baixar APK](assets/app-release.apk)
-"# desafio1_pessoas" 
